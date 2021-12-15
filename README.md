@@ -2,8 +2,6 @@
 
 Progetto esame Sicurezza delle Architetture Orientate ai Servizi: [Demo App Front-End](https://antonioacademy10.github.io/progetto-soasec-github-pages/#/)
 
-[TOC]
-
 # Getting Started
 
 ## Pre-Requisiti
